@@ -97,6 +97,7 @@ This section should list any major frameworks that you built your project using.
 2. Install dependencies
    ```JS
    apt install nodejs npm
+   npm install yarn
    yarn
    ```
 3. Start local server
